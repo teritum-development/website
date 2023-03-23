@@ -6,6 +6,7 @@ Yes, I know the website is lacking but this is the home to many projects such as
 
 ### Omega VPN
 For setup, please contact omegavpn.setup@teritum.dev for more details along with your invoice ID.
+To manage your subscription, [click here](https://billing.stripe.com/p/login/8wM01oaG17Lr7QccMM)
 #### Pricing
 - [Weekly: £3.00](https://buy.stripe.com/fZe6p1cL7bMV4AU3cf)
 - [Monthly: £8.00](https://buy.stripe.com/aEU5kX8uR9EN5EY000)
